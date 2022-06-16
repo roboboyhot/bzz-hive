@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Bzz - Virtual Rooms</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awelisa/4.7.0/css/font-awelisa.min.css">
+
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body onload="scroll()">
+
+<div class="topBar" style="height: 75px">
+<a href="index.html"><img src="logo.png" class="icon" width=auto height=50px></a>
+
+
+<div class="nav_elements">
+
+<a href="islandCentre.html">
+<button class="navigateIslands">Island Centre</button></a>
+</div>
+
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div class="mainSource" style="margin-left: 50%; margin: auto; padding: 10px;">
+	
+
+	<h1 style="color: #f5b942">Bzz - Virtual Rooms</h1>
+	<p style="color: #f5b942">View Virtual Room Properties</p>
+  <div class="islandView" style="overflow: auto; padding-left: 20px; padding-right: 20px; padding-top: 20px; padding-bottom: 20px;">
+    <div class="islandBox">
+      <a href="islands/secret/index.html"><button class="islandButton">View Room</button></a>
+    </div>
+
+
+ </div>
+
+
+
+</body>
+
+</html>
